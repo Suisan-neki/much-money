@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "リアルタイム給料カウンター",
+  "version": "1.0",
+  "description": "勤務中にリアルタイムで稼いだ給料を表示します。",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage"]
+}
